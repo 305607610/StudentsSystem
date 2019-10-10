@@ -19,7 +19,7 @@ namespace StuManageSys
         /// </summary>
         public DataBase()
         {
-            SqlConnectionString = "Data Source=127.0.0.1;Initial Catalog=StuSys;User ID=sa;pwd=320825;Connection Lifetime=0;max pool size=200";
+            SqlConnectionString = "Data Source=localhost;Initial Catalog=StuSys;User ID=sa;pwd=320825;Connection Lifetime=0;max pool size=200";
         }
 
         /// <summary>

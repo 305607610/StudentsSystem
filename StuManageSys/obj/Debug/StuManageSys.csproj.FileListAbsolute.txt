@@ -6,11 +6,9 @@ E:\Code\VS2019\StuManageSys\StuManageSys\obj\Debug\StuManageSys.FrmLogin.resourc
 E:\Code\VS2019\StuManageSys\StuManageSys\obj\Debug\StuManageSys.FrmRes.resources
 E:\Code\VS2019\StuManageSys\StuManageSys\obj\Debug\StuManageSys.Properties.Resources.resources
 E:\Code\VS2019\StuManageSys\StuManageSys\obj\Debug\StuManageSys.csproj.GenerateResource.cache
-E:\Code\VS2019\StuManageSys\StuManageSys\obj\Debug\StuManageSys.csproj.CoreCompileInputs.cache
 E:\Code\VS2019\StuManageSys\StuManageSys\obj\Debug\StuManageSys.exe
 E:\Code\VS2019\StuManageSys\StuManageSys\obj\Debug\StuManageSys.pdb
 E:\Code\VS2019\StuManageSys\StuManageSys\obj\Debug\StuManageSys.FrmMain.resources
-E:\Code\VS2019\StuManageSys\StuManageSys\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
 E:\Code\VS2019\StuManageSys\StuManageSys\obj\Debug\StuManageSys.FrmGradeAdd.resources
 E:\Code\VS2019\StuManageSys\StuManageSys\obj\Debug\StuManageSys.FrmGradeSearch.resources
 E:\Code\VS2019\StuManageSys\StuManageSys\obj\Debug\StuManageSys.FrmHome.resources
